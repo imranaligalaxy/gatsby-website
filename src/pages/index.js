@@ -82,7 +82,7 @@ const IndexPage = () => (
         style={{ marginBottom: `var(--space-3)` }}
       />
       <h1>
-        Welcome to <b>Imran Ali!</b>
+        Welcome to <b>Imran Ali! Gatsby Ecosystem</b>
       </h1>
       <p className={styles.intro}>
         <b>Example pages:</b>{" "}
